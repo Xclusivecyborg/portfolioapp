@@ -229,11 +229,11 @@ class MyProfile extends StatelessWidget {
                     ),
                   ),
                   SizedBox(
-                    width: 40,
+                    width: 30,
                   ),
                   Container(
                     height: 120,
-                    width: 100,
+                    width: 90,
                     decoration: BoxDecoration(
                       boxShadow: [
                         BoxShadow(
